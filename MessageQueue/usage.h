@@ -1,0 +1,5 @@
+#define USAGE   "Usage error! Proper usage: \nmsqQTest -c/C <key> \nmsqQTest -s/S <key> <type> <text> \nmsqQTest -r/R <key> <type> \nmsqQTest -d/D <key>\n"
+#define USAGE_C "Usage error! Proper usage: msqQTest -c/C <key>\n"
+#define USAGE_S "Usage error! Proper usage: msqQTest -s/S <key> <type> <text>\n"
+#define USAGE_R "Usage error! Proper usage: msqQTest -r/R <key> <type>\n"
+#define USAGE_D "Usage error! Proper usage: msqQTest -d/D <key>\n"
